@@ -1,2 +1,2 @@
-What kind of repository is this?__
+What kind of repository is this?<br />
 Let me explain ...

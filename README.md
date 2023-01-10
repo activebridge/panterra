@@ -1,2 +1,1 @@
-What kind of repository is this?<br />
-Let me explain ...
+Strategy game
